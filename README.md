@@ -2,6 +2,8 @@
 
 This repository contains code examples, exercises, and notes for Java programming lectures.
 
+<img src="./Images/java.svg" alt="Java Logo">
+
 ## Contents
 
 - `src/` - Source code for lecture examples and exercises
