@@ -10,6 +10,9 @@ This repository contains code examples, exercises, and notes for Java programmin
 - `docs/` - Additional documentation and lecture notes
 - `README.md` - Project overview and instructions
 
+
+<a href="https://docs.oracle.com/en/java/javase/25/docs/api/index.html"> java documentation </a>
+
 ## Getting Started
 
 1. **Clone the repository:**
