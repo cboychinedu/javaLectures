@@ -15,6 +15,19 @@ public class ArrayListExample {
         // other ways of creating array list  
         ArrayList<String> fruits = new ArrayList<>(List.of("Mango", "Apple", "Grape"));
 
+        // Double 
+        List <String> words = List.of("Apple", "Bat", "Cat"); 
+
+        // list with integers 
+        List <Integer> intergerValue = List.of(3, 4, 5, 6, 1); 
+
+        for (int value: intergerValue) {
+            System.out.println(value); 
+        }
+
+        // Displaying the list 
+        System.out.println(words); 
+
         // Adding items into the items array list 
         items.add("Pineapple"); 
         items.add("Orange"); 
